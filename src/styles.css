@@ -27,6 +27,7 @@ header h1 {
 }
 nav{
     display: flex;
+    flex-wrap: wrap;
     gap: 2vh;
 }
 nav button {
